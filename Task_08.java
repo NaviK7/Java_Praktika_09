@@ -54,7 +54,7 @@ public class Task_08 {
                 negativ++;
             }
         }
-        System.out.println("Количество отрицательных чисел " + negativ);
+        System.out.println("Количество отрицательных чиселл " + negativ);
 
         int pozitiv = 0;
         for (int j = 0; j < array.length; j++) {
